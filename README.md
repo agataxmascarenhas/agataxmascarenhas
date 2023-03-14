@@ -8,7 +8,7 @@
 - I´m also a structural civil engineer 👨📝📐🏗
 - My hobbies include watching (for the thousand time) Lord of the Rings, Star Wars and Harry Potter (Ten points to Gryffindor! 🦁🏆❤️🗡)
 - Practicing shotokan karate 🥋
-- And I´m also a music lover that listens to everything from The Beatles to Black Sabbath 🦇 
+- And I´m also a music lover that listens to everything from The Beatles to Black Sabbath 🦇 Oh lord, yeah!
 
 <!--
 **agataxmascarenhas/agataxmascarenhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
