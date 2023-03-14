@@ -1,6 +1,6 @@
 <img src="https://imgur.com/jbvujvr.gif" width=1000 height="300"/>
 
-### I´m Ágata, a Junior Front End Developer 
+### I´m Ágata, a Junior Front End/Full Stack Developer 
 
 - I started my  coding journey at [As Raparigas do Código](https://github.com/As-Raparigas-do-Codigo), an excellent community for women in tech 🤍 
 - I recently finished a 6 months **full stack web development** course 	🏆
